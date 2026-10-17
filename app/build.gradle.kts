@@ -31,8 +31,8 @@ android {
     defaultConfig {
         applicationId = "eu.kanade.tachiyomi.sy"
 
-        versionCode = 81
-        versionName = "1.13.2"
+        versionCode = 82
+        versionName = "1.13.2-tombstones"
 
         buildConfigField("String", "UPSTREAM_VERSION", """"0.20.1"""")
 
